@@ -54,7 +54,7 @@
 
 * Public NGINX server that I worked on:
 
-[ec2-3-14-69-163.us-east-2.compute.amazonaws.com](ec2-3-14-69-163.us-east-2.compute.amazonaws.com)
+[http://ec2-3-14-69-163.us-east-2.compute.amazonaws.com/](http://ec2-3-14-69-163.us-east-2.compute.amazonaws.com/)
 
 # Create The Server 1.1 (What I Did Instead/Mistakes)
 * First I manually installed the NGINX server using this code on the Public working NGINX Server with
@@ -147,7 +147,7 @@ chmod +x checkversion.sh
 ./checkversion.sh
 ```
 **What it did:**
-This script shows you if NGINX is running and it's version every 10 seconds. Of course every 10 seconds was just for an immediate response to see if the script was working. One can definitely change the 10 second time to any of they please, or they use a cron tab to display this script for a certain time of minute/hour/day/month/week/month/year that they desire
+This script shows you if NGINX is running and it's version every 10 seconds. Of course every 10 seconds was just for an immediate response to see if the script was working. One can definitely change the 10 seconds to any time that they want, or they use a cron tab to display this script for a certain time for any minute/hour/day/month/week/month/year that they desire
 ![image](https://user-images.githubusercontent.com/80073478/110182680-41ca0300-7ddb-11eb-9187-4309f90ccb92.png)
 
 * If one SSH into this instance with the root user, I believe the script would still be running relaying to the user if NGINX is running/version, if the script has not been stopped
