@@ -19,7 +19,7 @@
 ![image](https://user-images.githubusercontent.com/80073478/110175165-53a5a900-7dcf-11eb-9ab8-36f6ea43540a.png)
 
 ### Step 3: Configure Instance
-* When Configuring Instance details, one can keep everything default, except the User Data option in Advanced Details, one can incorporate a bash script inside that part and when done right, one can create a NGINX server with the proper commands. Go to **Create the Server 1.1** for more info what I tried to do.
+* When Configuring Instance Details, one can keep everything default, except the User Data option in Advanced Details, one can incorporate a bash script inside that part and when done right, one can create a NGINX server with the proper commands. Go to **Create the Server 1.1** for more info on what I tried to do.
 
 
 ![image](https://user-images.githubusercontent.com/80073478/110175534-e8a8a200-7dcf-11eb-8bfa-d245fe7a44d9.png)
@@ -44,7 +44,7 @@
 
 ### Step 8: Checking if Server is Running
 
-*Go to Instances under Instances tab
+* Go to Instances under Instances tab
 
 ![image](https://user-images.githubusercontent.com/80073478/110176879-00812580-7dd2-11eb-84c6-9a9308a0443c.png)
 
