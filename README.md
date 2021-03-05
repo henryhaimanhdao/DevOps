@@ -134,7 +134,18 @@ done
 
 #end
 ```
+**To add the bash scipt:**
 
+```
+vi checkversion.sh
+#in the text editor add the script above
+
+#After run this command to make the script executable 
+chmod +x checkversion.sh 
+
+#Run this to execute the code(Have to be in the right directory)
+./checkversion.sh
+```
 **What it did:**
 This script shows you if NGINX is running and it's version every 10 seconds. Of course every 10 seconds was just for an immediate response to see if the script was working. One can definitely change the 10 second time to any of they please, or they use a cron tab to display this script for a certain time of minute/hour/day/month/week/month/year that they desire
 ![image](https://user-images.githubusercontent.com/80073478/110182680-41ca0300-7ddb-11eb-9187-4309f90ccb92.png)
