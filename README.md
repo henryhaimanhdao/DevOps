@@ -56,6 +56,11 @@
 
 [http://ec2-3-14-69-163.us-east-2.compute.amazonaws.com/](http://ec2-3-14-69-163.us-east-2.compute.amazonaws.com/)
 
+* One should see this site if everything worked out:
+
+![image](https://user-images.githubusercontent.com/80073478/110183911-e77e7180-7ddd-11eb-9034-28b9eee5eed7.png)
+
+
 # Create The Server 1.1 (What I Did Instead/Mistakes)
 * First I manually installed the NGINX server using this code on the Public working NGINX Server with
 
