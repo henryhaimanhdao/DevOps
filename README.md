@@ -157,3 +157,8 @@ This script shows you if NGINX is running and it's version every 10 seconds. Of 
 
 * If one SSH into this instance with the root user, I believe the script would still be running relaying to the user if NGINX is running/it's version, if the script has not been stopped
 
+# /version.txt
+
+*Could not git add my /version.txt
+
+![image](https://user-images.githubusercontent.com/80073478/110187145-4c899580-7de5-11eb-8acb-c9f623ef819f.png)
