@@ -159,6 +159,6 @@ This script shows you if NGINX is running and it's version every 10 seconds. Of 
 
 # /version.txt
 
-*Could not git add my /version.txt
+* Could not git add my /version.txt
 
 ![image](https://user-images.githubusercontent.com/80073478/110187145-4c899580-7de5-11eb-8acb-c9f623ef819f.png)
