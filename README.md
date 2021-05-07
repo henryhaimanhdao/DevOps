@@ -53,6 +53,7 @@
 ![image](https://user-images.githubusercontent.com/80073478/110177363-d8de8d00-7dd2-11eb-90f7-fb51fbc9b295.png)
 
 * Public NGINX server that I worked on:
+### (Currently powered off because it's a paid service after 750 hours)
 
 [http://ec2-3-14-69-163.us-east-2.compute.amazonaws.com/](http://ec2-3-14-69-163.us-east-2.compute.amazonaws.com/)
 
