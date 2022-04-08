@@ -1,4 +1,4 @@
-#Not live due to free trial ending
+# Not live due to free trial ending
 
 # Create The Server 1.0
 ## 1. Use AWS EC2 (Elastic Compute Cloud)
