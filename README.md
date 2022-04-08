@@ -1,3 +1,5 @@
+#Not live due to free trial ending
+
 # Create The Server 1.0
 ## 1. Use AWS EC2 (Elastic Compute Cloud)
 * With the free trial, one can have access to 750 hours of AWS EC2
